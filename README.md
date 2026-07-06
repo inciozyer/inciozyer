@@ -46,5 +46,5 @@ inciozyer@gmail.com
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GITHUB_KULLANICI_ADIN&show_icons=true&theme=radical" alt="İstatistiklerim" />
+  <img src="https://github-readme-stats.vercel.app/api?username=inciozyer&show_icons=true&theme=radical" alt="İstatistiklerim" />
 </div>
