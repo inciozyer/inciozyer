@@ -8,7 +8,7 @@ Bandırma Onyedi Eylül Üniversitesi Bilgisayar Mühendisliği mezunu, çözüm
 
 | Kategori | Teknolojiler |
 | :--- | :--- |
-| **Programlama** | Kotlin, SAP ABAP, SQL, HTML, Python, C++ |
+| **Programlama** | Kotlin, SAP ABAP, react, HTML, Python, C++ |
 | **Bulut & Veri** | Firebase (Firestore, Auth, FCM), Google Cloud, NoSQL |
 | **Araçlar** | Git, GitHub, REST API, Gemini AI Entegrasyonu |
 | **Yetkinlikler** | Çevik (Agile), Algoritmik Problem Çözme, Uzaktan Takım Çalışması |
